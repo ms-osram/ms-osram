@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on using Flask
+- 🔭 I’m currently working on my README 😆
 - 🌱 I’m currently learning Rust Fundamentals
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
