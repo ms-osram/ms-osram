@@ -2,17 +2,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my README 😆
+
 - 🌱 I’m currently learning Rust Fundamentals
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love collecting pens! Currently I'm exploring fountain pens, and I'm loving the Platinum Prefounte so far!
 
 Check my other projects here:
-https://www.codewars.com/users/ms-osram
+[Codewars](https://www.codewars.com/users/ms-osram)
 
 <!--
 **ms-osram/ms-osram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
