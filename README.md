@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m actively advancing skills in Rust
+- 🌱 I’m actively advancing skills in Rust!
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love collecting pens! Currently I'm exploring fountain pens, and I'm loving the Lamy Joy so far!
 
